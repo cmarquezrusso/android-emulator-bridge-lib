@@ -12,7 +12,7 @@ import android.util.Log;
 
 /**
  * 
- * @author Cristian Marquez Russo <cristian04@gmail.com>
+ * @author Cristian Marquez Russo 
  * @see <link>http://www.cristianmarquez.com.ar</link>
  * 
  */
